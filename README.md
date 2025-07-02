@@ -1,2 +1,2 @@
-# my-university
+program of pythons 
 author waqas gul 
